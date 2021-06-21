@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Image from 'next/image'
 import Header from '../components/Header';
-import Infocard from '../components/Infocard';
+import Infocard from '../components/InfoCard';
 import Works from '../components/Works';
 import {
   ArrowDownIcon
